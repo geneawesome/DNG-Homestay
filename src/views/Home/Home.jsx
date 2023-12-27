@@ -4,7 +4,7 @@ const Home = () => {
     <div>
       <section className="home">
         <div className="home-content">
-          <h1>Your Gateway to Smooth Cruise Travel.</h1>
+          <h1>Your Gateway to Smooth Stay .</h1>
 
           {/* <div className="btn-box">
             <a href="/Booknow">Book Now</a>
