@@ -32,7 +32,10 @@ const Footer = () => {
           <div className="footer-col">
             <h4>Follow US</h4>
             <div className="social-links">
-              <a href="https://www.facebook.com/" target="blank">
+              <a
+                href="https://www.facebook.com/profile.php?id=100090399621119"
+                target="blank"
+              >
                 <i className="fab fa-facebook-f"></i>
               </a>
             </div>
