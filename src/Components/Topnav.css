@@ -1,0 +1,42 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;1,700&display=swap");
+.navbar {
+  text-decoration: none;
+  font-weight: 400;
+  background-color: #2e3532 !important;
+}
+
+.brand,
+.list_item {
+  color: white;
+  font-size: bold;
+  font-size: 24px;
+}
+
+.Dolphin-logo {
+  font-size: 40px;
+  font-weight: 900;
+  font-family: "Lato", sans-serif;
+  font-style: italic;
+}
+
+.brand:hover,
+.brand:focus {
+  color: white;
+}
+
+.list_item:hover {
+  color: #aabeff;
+}
+.btn-success {
+  background-color: #3a5cc1;
+  border: solid 2px #3a5cc1;
+  border-radius: 5px;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.btn-success:hover {
+  background-color: transparent;
+  color: #d2b48c;
+  border: solid 2px #d2b48c;
+}
