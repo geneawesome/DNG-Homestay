@@ -4,8 +4,8 @@ import Container from "react-bootstrap/Container";
 import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
 import Image from "react-bootstrap/Image";
-import Transient from "../../assets/interior-design-with-bed-by-window.jpg";
-import LongTerm from "../../assets/airbnb-host-welcoming-guests.jpg";
+import Transient from "../../assets/409782201_302276246129027_7977633288824692716_n.jpg";
+import LongTerm from "../../assets/361101360_212910935065559_6409597218975658353_n.jpg";
 // import EntertainmentActivities from "../../assets/modern-people-doing-cultural-activities_23-2148599167.jpg";
 // import SafetyMedicalServices from "../../assets/flat-world-health-day-background_23-2149300395.jpg";
 const Services = () => {

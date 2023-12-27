@@ -22,7 +22,7 @@ const Contact = () => {
               <br />
               <br />
               <p>
-                <strong>Phone: 09353973154</strong>
+                <strong>Phone: 09353973154/09353973248</strong>
               </p>
               <p className="addressplace">
                 Santa Maria Lallo Cagayan Zone 4, Lal-lo, Philippines, 3509
